@@ -1,11 +1,6 @@
-Esta es la historia de Alexis Vera
+Esta es la historia de Freddy Vega
 
-Alexis Vera tiene 30 años y nació en Ecuador,
-viviendo en todo el mundo pero la triste realidad es que vive en Ecuador
+Freddy Vega tiene 33 años y nació en Colombia,
+viviendo en todo el mundo
 
-Al momento estamos volviendo a programar y entiendo git hub para poder trabajar de programador
-
-Siempre se deprime y se rinde pero esta vez es diferente por que quiere hacer un cambio en su vida.
-
-Hoy es el momento de nunca parar de aprender #nucaparesdeaprender
-y hacerlo desde cero
+HMañana seguiremos aprendiendo 
