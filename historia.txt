@@ -3,4 +3,4 @@ Esta es la historia de Alexis Vera
 Alexis Vera tiene 30 años y nació en Ecuador,
 viviendo en todo el mundo pero la triste realidad es que vive en Ecuador
 
-Al momento estamos volviendo a programar
+Al momento estamos volviendo a programar y entiendo git hub para poder trabajar de programador
