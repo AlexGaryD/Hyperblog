@@ -9,6 +9,12 @@ Siempre se deprime y se rinde pero esta vez es diferente por que quiere hacer un
 
 Hoy es el momento de nunca parar de aprender #nucaparesdeaprender
 y hacerlo desde cero
+<<<<<<< HEAD
 Prueba del bot de Garysakura para pruebas de insrsión de repositorios de Github
 Enesima prueba para validar que paso que ahora sale acceso denegado
 tiste
+=======
+Prueba del bot de Garysakura para pruebas de insrsión de repositorios de Github+
+Tercera prueba de validación
+Pureba desde github esde ubuntu sakura
+>>>>>>> caaf4bb10d1616e57bd0c979f0174f5be661c50c
