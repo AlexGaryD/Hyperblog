@@ -11,3 +11,4 @@ Hoy es el momento de nunca parar de aprender #nucaparesdeaprender
 y hacerlo desde cero
 Prueba del bot de Garysakura para pruebas de insrsión de repositorios de Github+
 Tercera prueba de validación
+Pureba desde github esde ubuntu sakura
