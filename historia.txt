@@ -17,5 +17,5 @@ tiste
 Prueba del bot de Garysakura para pruebas de insrsión de repositorios de Github+
 Tercera prueba de validación
 Pureba desde github esde ubuntu sakura
-cuarta prueba
+cuarta prueba de github
 >>>>>>> caaf4bb10d1616e57bd0c979f0174f5be661c50c
