@@ -1,5 +1,8 @@
 body {
+<<<<<<< HEAD
     background: #1e1f24;
+=======
+>>>>>>> fooder
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -43,4 +46,11 @@ body {
 #post {
     background: #fff;
     padding: 1em
+}
+#footer
+{
+    background-color: #777;
+    color: whitesmoke;
+    text-align: center;
+    padding: 0.5em;
 }
