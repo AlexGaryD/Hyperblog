@@ -1,9 +1,5 @@
 body {
-<<<<<<< HEAD
-    color: #0c1178;
-=======
-    color: #ee1010;
->>>>>>> cabecera
+    color: #333;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -40,4 +36,11 @@ body {
 
 #post {
     padding: 1em
+}
+#footer
+{
+    background-color: #777;
+    color: whitesmoke;
+    text-align: center;
+    padding: 0.5em;
 }
