@@ -11,6 +11,7 @@
 - **Nivel de inglés:** B1 (en proceso de mejora)
 - *Creado por el increible Platzi team
 - *Incluye  ejemplos en windows linux y mac
+- *Disponoble para todas las edades
 
 ## Pasiones
 
