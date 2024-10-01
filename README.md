@@ -10,11 +10,9 @@
 - **Experiencia:** Más de 10 años en el ámbito de la formación informática
 - **Nivel de inglés:** B1 (en proceso de mejora)
 - *Creado por el increible Platzi team
-<<<<<<< HEAD
-=======
 - *Incluye  ejemplos en windows linux y mac
 - *Disponoble para todas las edades
->>>>>>> readme-mejorado
+
 
 ## Pasiones
 
